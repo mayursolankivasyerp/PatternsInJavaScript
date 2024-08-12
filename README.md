@@ -23,7 +23,8 @@ This repository contains examples and implementations of various star and number
 ### Simple Square
 
 Prints a square of stars.
-
+## Reference
+https://medium.com/@HelloMoto69/patterns-in-javascript-1992ae52a26c
 **Example:**
 
 ```javascript
